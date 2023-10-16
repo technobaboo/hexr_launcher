@@ -6,7 +6,7 @@ using StereoKit;
 using StereoKit.Framework;
 using Color = StereoKit.Color;
 
-namespace stereokit_lynx_template;
+namespace hexr_launcher;
 
 public class LynxMenu : IStepper
 {

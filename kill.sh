@@ -1,3 +1,3 @@
 #!/bin/sh
 
-adb shell am force-stop technobaboo.stereokit_lynx_template
+adb shell am force-stop technobaboo.hexr_launcher

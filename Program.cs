@@ -1,6 +1,6 @@
 ﻿using StereoKit;
 
-namespace stereokit_lynx_template;
+namespace hexr_launcher;
 
 class Program
 {
@@ -9,7 +9,7 @@ class Program
 		// Initialize StereoKit
 		SKSettings settings = new()
 		{
-			appName = "StereoKit Lynx Template",
+			appName = "HeXR Launcher",
 			assetsFolder = "Assets",
 			blendPreference = DisplayBlend.Blend,
 			// overlayApp = true,

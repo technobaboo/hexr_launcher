@@ -8,7 +8,7 @@ using System;
 using System.Reflection;
 using System.Threading;
 
-namespace stereokit_lynx_template;
+namespace hexr_launcher;
 
 // <activity
 // 	android:configChanges="screenSize|screenLayout|orientation|keyboardHidden|keyboard|navigation|uiMode|density"
